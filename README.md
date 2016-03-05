@@ -10,5 +10,4 @@ Menu options
 4) Exit
 
 ![ScreenShot](https://raw.github.com/Androidhacks7/fifteen-puzzle/master/screenshots/Screenshot_20160305-125731.png)
-
 ![ScreenShot](https://raw.github.com/Androidhacks7/fifteen-puzzle/master/screenshots/Screenshot_20160305-125749.png)
